@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AbeULoJM/JnTMjRXfdiE4TKbx5MEZK6BZXvi7btZRWiCqDeAZ0bnJifXxlGsoaZg9cE+366CxeJZlN4Yd5eMTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\getlo\\bootcamp\\!C#\\badge_maker\\badge_maker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\getlo\\.nuget\\packages\\skiasharp\\2.88.3\\skiasharp.2.88.3.nupkg.sha512",
+    "C:\\Users\\getlo\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.3\\skiasharp.nativeassets.macos.2.88.3.nupkg.sha512",
+    "C:\\Users\\getlo\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.3\\skiasharp.nativeassets.win32.2.88.3.nupkg.sha512"
+  ],
+  "logs": []
+}

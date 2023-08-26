@@ -1,0 +1,14 @@
+C:\Users\getlo\bootcamp\!C#\badge_maker\bin\Debug\net7.0\badge_maker.exe
+C:\Users\getlo\bootcamp\!C#\badge_maker\bin\Debug\net7.0\badge_maker.deps.json
+C:\Users\getlo\bootcamp\!C#\badge_maker\bin\Debug\net7.0\badge_maker.runtimeconfig.json
+C:\Users\getlo\bootcamp\!C#\badge_maker\bin\Debug\net7.0\badge_maker.dll
+C:\Users\getlo\bootcamp\!C#\badge_maker\bin\Debug\net7.0\badge_maker.pdb
+C:\Users\getlo\bootcamp\!C#\badge_maker\obj\Debug\net7.0\badge_maker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\getlo\bootcamp\!C#\badge_maker\obj\Debug\net7.0\badge_maker.AssemblyInfoInputs.cache
+C:\Users\getlo\bootcamp\!C#\badge_maker\obj\Debug\net7.0\badge_maker.AssemblyInfo.cs
+C:\Users\getlo\bootcamp\!C#\badge_maker\obj\Debug\net7.0\badge_maker.csproj.CoreCompileInputs.cache
+C:\Users\getlo\bootcamp\!C#\badge_maker\obj\Debug\net7.0\badge_maker.dll
+C:\Users\getlo\bootcamp\!C#\badge_maker\obj\Debug\net7.0\refint\badge_maker.dll
+C:\Users\getlo\bootcamp\!C#\badge_maker\obj\Debug\net7.0\badge_maker.pdb
+C:\Users\getlo\bootcamp\!C#\badge_maker\obj\Debug\net7.0\badge_maker.genruntimeconfig.cache
+C:\Users\getlo\bootcamp\!C#\badge_maker\obj\Debug\net7.0\ref\badge_maker.dll
